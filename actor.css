@@ -49,10 +49,7 @@
     color:white;
 
   }
-  .quotes{
-    color:red;
-    font-size:2rem;
-  }
+  
   
   .album {
     padding-top: 3rem;
@@ -115,4 +112,18 @@
     float: left;
     width: 100%;
     border: 0;
+    }
+
+    /* i added */
+    .quotes{
+      color:#333333;
+      font-size:1rem;
+      text-align: center;
+      margin:auto;
+      border:2px solid #333333;
+      width: 40%;
+      border-radius:5px;
+    }
+    blockquote{
+      width:100% !important;
     }
